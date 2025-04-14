@@ -187,17 +187,6 @@ Calculation:
 
 ---
 
-## Why the AI Can’t Be Beaten
-
-1. The AI explores every possibility.
-2. Uses alpha-beta pruning to skip weak branches.
-3. Always follows perfect play:
-   - Picks the center if possible.
-   - Creates double threats.
-   - Blocks opponent’s paths to victory.
-
----
-
 ## Example: Computer Strategy When Player Picks the Center
 
 If the player starts with the center:
