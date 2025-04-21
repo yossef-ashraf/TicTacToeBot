@@ -1,5 +1,12 @@
 # Tic-Tac-Toe AI — Full Explanation
 
+## Flow Chart and Design
+
+### Files
+
+* [AI_TicTacToe_Design_Document](FlowChart_and_Design/AI_TicTacToe_Design_Document.md)
+* [Tic-Tac-Toe AI Algorithm Flowchart](FlowChart_and_Design/Tic-Tac-Toe%20AI%20Algorithm%20Flowchart.md)
+
 ## How to Play
 
 ### Starting the Game:
